@@ -1,0 +1,2 @@
+# TinyJS
+Discord API Wrapper
